@@ -4,7 +4,7 @@
 
 * [Chunhua Weng](https://www.dbmi.columbia.edu/profile/chunhua-weng/), FACMI, FIAHSI, Department of Biomedical Informatics, Columbia University
 * [Yifan Peng](https://penglab.weill.cornell.edu/), FAMIA, Department of Population Health Sciences, Weill Cornell Medicine
-* [Yong Chen](https://penncil.med.upenn.edu/about-pi/), FACMI, Department of Biostatistics, University of Pennsylvania.
+* [Yong Chen](https://penncil.med.upenn.edu/about-pi/), FACMI, Department of Biostatistics, University of Pennsylvania
 
 ## Research support
 
@@ -18,3 +18,5 @@
 * Liu H, Peng Y, Weng C. [How Good Is ChatGPT for Medication Evidence Synthesis?](https://pubmed.ncbi.nlm.nih.gov/37203581) Stud Health Technol Inform. 2023 May 18;302:1062-1066. doi: 10.3233/SHTI230347. PMID: 37203581.
 
 ## News
+
+* Peng Lab has two openings for [postdoctoral openings](https://phs.weill.cornell.edu/about-us/career-opportunities/postdoctoral-fellow).
