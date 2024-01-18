@@ -17,6 +17,4 @@
 * Kang T, Sun Y, Kim JH, Ta C, Perotte A, Schiffer K, Wu M, Zhao Y, Moustafa-Fahmy N, Peng Y, Weng C. [EvidenceMap: a three-level knowledge representation for medical evidence computation and comprehension](https://pubmed.ncbi.nlm.nih.gov/36921288/). J Am Med Inform Assoc. 2023 May 19;30(6):1022-1031. doi: 10.1093/jamia/ocad036. PMID: 36921288; PMCID: PMC10198523.
 * Liu H, Peng Y, Weng C. [How Good Is ChatGPT for Medication Evidence Synthesis?](https://pubmed.ncbi.nlm.nih.gov/37203581) Stud Health Technol Inform. 2023 May 18;302:1062-1066. doi: 10.3233/SHTI230347. PMID: 37203581.
 
-## Codes
-
 ## News
