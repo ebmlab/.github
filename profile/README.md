@@ -19,4 +19,4 @@
 
 ## News
 
-* Peng Lab has two openings for [postdoctoral openings](https://phs.weill.cornell.edu/about-us/career-opportunities/postdoctoral-fellow).
+* Peng Lab has two openings for [Postdoctoral Fellow](https://phs.weill.cornell.edu/about-us/career-opportunities/postdoctoral-fellow).
