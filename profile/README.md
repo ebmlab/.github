@@ -1,3 +1,5 @@
+<img src="ebm.png" alt="EBM2.0" width="400"/>
+
 ## About
 
 ## Primary Investigators
