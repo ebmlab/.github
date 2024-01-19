@@ -1,4 +1,4 @@
-<img src="ebm.png" alt="EBM2.0" width="400"/>
+<img src="https://github.com/ebmlab/.github/blob/main/profile/ebm.png" alt="EBM2.0" width="400"/>
 
 ## About
 
