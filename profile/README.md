@@ -14,6 +14,7 @@
 
 ## Publications
 
+* Zhang G, Jin Q, Jered McInerney D, Chen Y, Wang F, Cole CL, Yang Q, Wang Y, Malin BA, Peleg M, Wallace BC, Lu Z, Weng C*, Peng Y*. [Leveraging generative AI for clinical evidence synthesis needs to ensure trustworthiness](https://pubmed.ncbi.nlm.nih.gov/38608915/). J Biomed Inform. 2024 Apr 10:104640. doi: 10.1016/j.jbi.2024.104640. Epub ahead of print. PMID: 38608915.
 * Zhang G, Zhou Y, Hu Y, Xu H, Weng C*, Peng Y*. [A span-based model for extracting overlapping PICO entities from RCT publications](https://pubmed.ncbi.nlm.nih.gov/38471120/). J Am Med Inform Assoc. 2024 Mar 12:ocae065. doi: 10.1093/jamia/ocae065. Epub ahead of print. PMID: 38471120.
 * Liu H, Soroush A, Nestor JG, Park E, Idnay B, Fang Y, Pan J, Liao S, Bernard M, Peng Y*, Weng C*. [Retrieval augmented scientific claim verification](https://pubmed.ncbi.nlm.nih.gov/38455840/). JAMIA Open. 2024 Feb 21;7(1):ooae021. doi: 10.1093/jamiaopen/ooae021. PMID: 38455840; PMCID: PMC10919922.
 * Peng Y, Rousseau JF, Shortliffe EH, Weng C. [AI-generated text may have a role in evidence-based medicine](https://pubmed.ncbi.nlm.nih.gov/37221382/). Nat Med. 2023 Jul;29(7):1593-1594. doi: 10.1038/s41591-023-02366-9. PMID: 37221382.
