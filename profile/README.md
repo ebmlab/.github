@@ -35,5 +35,3 @@
 * Biomedical and Health Informatics research colloquium, University of Washington. 12/7/2023.
 
 ## News
-
-* Peng Lab has two openings for [Postdoctoral Fellow](https://phs.weill.cornell.edu/about-us/career-opportunities/postdoctoral-fellow).
