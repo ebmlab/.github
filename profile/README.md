@@ -14,7 +14,7 @@
 
 ## Publications
 
-* Fang Y, Ryan P, Weng C. Knowledge-guided generative artificial intelligence for automated taxonomy learning from drug labels. J Am Med Inform Assoc. 2024 May 24:ocae105. doi: 10.1093/jamia/ocae105. Epub ahead of print. PMID: 38787964.
+* Fang Y, Ryan P, Weng C. [Knowledge-guided generative artificial intelligence for automated taxonomy learning from drug labels](https://pubmed.ncbi.nlm.nih.gov/38787964/). J Am Med Inform Assoc. 2024 May 24:ocae105. doi: 10.1093/jamia/ocae105. Epub ahead of print. PMID: 38787964.
 * Zhang G, Jin Q, Jered McInerney D, Chen Y, Wang F, Cole CL, Yang Q, Wang Y, Malin BA, Peleg M, Wallace BC, Lu Z, Weng C*, Peng Y*. [Leveraging generative AI for clinical evidence synthesis needs to ensure trustworthiness](https://pubmed.ncbi.nlm.nih.gov/38608915/). J Biomed Inform. 2024 Apr 10:104640. doi: 10.1016/j.jbi.2024.104640. Epub ahead of print. PMID: 38608915.
 * Zhang G, Zhou Y, Hu Y, Xu H, Weng C*, Peng Y*. [A span-based model for extracting overlapping PICO entities from RCT publications](https://pubmed.ncbi.nlm.nih.gov/38471120/). J Am Med Inform Assoc. 2024 Mar 12:ocae065. doi: 10.1093/jamia/ocae065. Epub ahead of print. PMID: 38471120.
 * Spotnitz M, Idnay B, Gordon ER, Shyu R, Zhang G, Liu C, Cimino JJ, Weng C. [A Survey of Clinicians' Views of the Utility of Large Language Models](https://pubmed.ncbi.nlm.nih.gov/38442909/). Appl Clin Inform. 2024 Mar 5. doi: 10.1055/a-2281-7092. Epub ahead of print. PMID: 38442909.
