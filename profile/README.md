@@ -15,7 +15,6 @@
 
 ## Publications
 
-* Peng Y, Malin BA, Rousseau JF, Wang Y, Xu Z, Xu X, Weng C, Bian J. [From GPT to DeepSeek: Significant gaps remains in realizing AI in healthcare](https://pubmed.ncbi.nlm.nih.gov/39938624/). J Biomed Inform. 2025 Feb 10:104791. doi: 10.1016/j.jbi.2025.104791. Epub ahead of print. PMID: 39938624.
 * Chen F, Zhang G, Fang Y, Peng Y, Weng C. [Semi-supervised learning from small annotated data and large unlabeled data for fine-grained Participants, Intervention, Comparison, and Outcomes entity recognition](https://pubmed.ncbi.nlm.nih.gov/39823371/). J Am Med Inform Assoc. 2025 Jan 17:ocae326. doi: 10.1093/jamia/ocae326. Epub ahead of print. PMID: 39823371.
 * Zhang G, Jin Q, Zhou Y, Wang S, Idnay B, Luo Y, Park E, Nestor JG, Spotnitz ME, Soroush A, Campion TR Jr, Lu Z, Weng C, Peng Y. [Closing the gap between open source and commercial large language models for medical evidence summarization](https://pubmed.ncbi.nlm.nih.gov/39251804). NPJ Digit Med. 2024 Sep 9;7(1):239. doi: 10.1038/s41746-024-01239-w. PMID: 39251804.
 * Lu Z, Peng Y, Cohen T, Ghassemi M, Weng C, Tian S. [Large language models in biomedicine and health: current research landscape and future directions](https://pubmed.ncbi.nlm.nih.gov/39169867/). J Am Med Inform Assoc. 2024 Sep 1;31(9):1801-1811. doi: 10.1093/jamia/ocae202. PMID: 39169867.
