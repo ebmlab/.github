@@ -45,6 +45,8 @@
 
 ## Invited talks
 
+* [Short course: Biomedical Large Language Models – Development and Application](https://phds.nestat.org/short_courses.html). Pharmaceutical Data Science (PharmaDS) Conference 2025. 4/7/2025
+* [BMI Seminar Series](https://medicine.osu.edu/departments/biomedical-informatics/education/bmi-seminar-series), Ohio State University College of Medicine. 2/14/2025
 * [PQHS Research Methods Meetings](https://www.umassmed.edu/pqhs/research/wednesday-research-meetings/), UMass Chan Medical School. 2/6/2025
 * [Machine Learning in Medicine Seminar](https://ml-in-medicine.org/), Boston Univ/Univ Toronto/Univ Pitt/. 4/19/2024.
 * Biomedical and Health Informatics research colloquium, University of Washington. 12/7/2023.
