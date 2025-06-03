@@ -6,7 +6,7 @@
 
 * [Chunhua Weng](https://www.dbmi.columbia.edu/profile/chunhua-weng/), FACMI, FIAHSI, Department of Biomedical Informatics, Columbia University
 * [Yong Chen](https://penncil.med.upenn.edu/about-pi/), FACMI, Department of Biostatistics, University of Pennsylvania
-* [Yifan Peng](https://penglab.weill.cornell.edu/), FAMIA, Department of Population Health Sciences, Weill Cornell Medicine
+* [Yifan Peng](https://penglab.weill.cornell.edu/), FACMI, Department of Population Health Sciences, Weill Cornell Medicine
 
 ## Research support
 
