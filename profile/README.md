@@ -54,6 +54,7 @@
 
 ## Invited talks
 
+* Statistical Methods Talk. Centre for Quantitative Medicine. Duke-NUS Medical School. 7/21/2025
 * Keynote speech. [Mayo Clinic AI Summit](https://ai-summit.com/ai-summit/). 7/12/2025</li>
 * Keynote speech, [Workshop: Generative AI for Smart and Connected Health: Innovations, Challenges, and Applications](https://conferences.computer.org/chase2025/workshop_generative_ai.html), in conjunction with IEEE/ACM CHASE 2025. 6/26/2025
 * [Short course: Biomedical Large Language Models – Development and Application](https://phds.nestat.org/short_courses.html). Pharmaceutical Data Science (PharmaDS) Conference 2025. 4/7/2025
