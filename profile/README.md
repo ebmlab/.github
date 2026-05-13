@@ -15,6 +15,11 @@
 
 ## Publications
 
+* Zhang G, Fang Y, Chen F, Ta C, Hripcsak G, Ryan P, Peng Y, Weng C. [A neural-symbolic AI agent system for biomedical concept mapping](https://pubmed.ncbi.nlm.nih.gov/41935204/). NPJ Digit Med. 2026 Apr 4. doi: 10.1038/s41746-026-02594-6. Epub ahead of print. PMID: 41935204.
+* Fang Y, Zhang G, Chen F, Peng Y, Weng C. [A critical evaluation of generative query expansion on biomedical literature retrieval](https://pubmed.ncbi.nlm.nih.gov/41921511/). J Am Med Inform Assoc. 2026 Apr 1:ocag037. doi: 10.1093/jamia/ocag037. Epub ahead of print. PMID: 41921511.
+* Bian J, Peng Y, Mendonca E, Banerjee I, Xu H. [Biomedical multimodal large language models: From model-centric development to clinically grounded evaluation and integration](https://pubmed.ncbi.nlm.nih.gov/41903641/). J Biomed Inform. 2026 Mar 26:105023. doi: 10.1016/j.jbi.2026.105023. Epub ahead of print. PMID: 41903641.
+* Yang R, Li H, Heng Wong MY, Ke Y, Li X, Yu K, Liao J, Kai Liew JC, Nair SV, Ong JCL, Li I, Teodoro D, Hong C, Peng Y, Ting DSW, Liu N. [The evolving landscape of large language models and non-large language models in health care](https://pubmed.ncbi.nlm.nih.gov/41924194/). Npj Health Syst. 2026;3:22. doi: 10.1038/s44401-026-00076-1. Epub 2026 Mar 9. PMID: 41924194; PMCID: PMC13038296.
+* Deng R, Martin G, Wang T, Zhang G, Liu Y, Weng C, Wang Y, Rousseau JF, Peng Y. [CPGPrompt: translating clinical guidelines into large language model-executable decision support](https://pubmed.ncbi.nlm.nih.gov/41746783/). J Am Med Inform Assoc. 2026 Apr 1;33(4):855-862. doi: 10.1093/jamia/ocag026. PMID: 41746783; PMCID: PMC13089456.
 * Liang Y, Zhang G, Sun E, Idnay B, Fang Y, Chen F, Ta C, Peng Y, Weng C. [Scalable scientific interest profiling using large language models](https://pubmed.ncbi.nlm.nih.gov/41177243/). J Biomed Inform. 2025 Oct 31:104949. doi: 10.1016/j.jbi.2025.104949. Epub ahead of print. PMID: 41177243.
 * Wang Z, Cao L, Jin Q, Chan J, Wan N, Afzali B, Cho HJ, Choi CI, Emamverdi M, Gill MK, Kim SH, Li Y, Liu Y, Luo Y, Ong H, Rousseau JF, Sheikh I, Wei JJ, Xu Z, Zallek CM, Kim K, Peng Y, Lu Z, Sun J. [A foundation model for human-AI collaboration in medical literature mining](https://pubmed.ncbi.nlm.nih.gov/40993125/). Nat Commun. 2025 Sep 24;16(1):8361. doi: 10.1038/s41467-025-62058-5. PMID: 40993125; PMCID: PMC12460617.
 * Fang Y, Zhang G, Chen F, Hripcsak G, Peng Y, Ryan P, Weng C. [CLEAR: A vision to support clinical evidence lifecycle with continuous learning](https://pubmed.ncbi.nlm.nih.gov/40744316/). J Biomed Inform. 2025 Jul 29;169:104884. doi: 10.1016/j.jbi.2025.104884. Epub ahead of print. PMID: 40744316; PMCID: PMC12339056.
@@ -54,8 +59,10 @@
 
 ## Invited talks
 
+* SAPA Science and Career Symposium, 5/2/2025
+* Department of Electrical Engineering. National Kaohsiung University of Science and Technology. 8/14/2025
 * Statistical Methods Talk. Centre for Quantitative Medicine. Duke-NUS Medical School. 7/21/2025
-* Keynote speech. [Mayo Clinic AI Summit](https://ai-summit.com/ai-summit/). 7/12/2025</li>
+* Keynote speech. [Mayo Clinic AI Summit](https://ai-summit.com/ai-summit/). 7/12/2025
 * Keynote speech, [Workshop: Generative AI for Smart and Connected Health: Innovations, Challenges, and Applications](https://conferences.computer.org/chase2025/workshop_generative_ai.html), in conjunction with IEEE/ACM CHASE 2025. 6/26/2025
 * [Short course: Biomedical Large Language Models – Development and Application](https://phds.nestat.org/short_courses.html). Pharmaceutical Data Science (PharmaDS) Conference 2025. 4/7/2025
 * PHS Health Informatics Seminar. Weill Cornell Medicine. 2/20/2025
