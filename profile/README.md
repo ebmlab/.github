@@ -59,7 +59,7 @@
 
 ## Invited talks
 
-* SAPA Science and Career Symposium, 5/2/2025
+* SAPA Science and Career Symposium, 5/2/2026
 * Department of Electrical Engineering. National Kaohsiung University of Science and Technology. 8/14/2025
 * Statistical Methods Talk. Centre for Quantitative Medicine. Duke-NUS Medical School. 7/21/2025
 * Keynote speech. [Mayo Clinic AI Summit](https://ai-summit.com/ai-summit/). 7/12/2025
