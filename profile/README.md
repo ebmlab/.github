@@ -59,7 +59,11 @@
 
 ## Invited talks
 
+* Invited talk at ICHI 2026 Conference Workshop on Rare Diseases. 6/1/2026
+* ISPOR invited panel presentation, 5/19/2026 
 * SAPA Science and Career Symposium, 5/2/2026
+* Invited talk to Astella Inc. 3/23/2026
+* [Webinar by Science.org](https://www.science.org/content/webinar/humans-and-ai-collaborating-solve-rare-disease-challenges-opportunities-and-pitfalls), 10/16/2025
 * Department of Electrical Engineering. National Kaohsiung University of Science and Technology. 8/14/2025
 * Statistical Methods Talk. Centre for Quantitative Medicine. Duke-NUS Medical School. 7/21/2025
 * Keynote speech. [Mayo Clinic AI Summit](https://ai-summit.com/ai-summit/). 7/12/2025
